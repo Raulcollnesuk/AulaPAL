@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\10n_somaeles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E69AF1C7-E0EE-4387-88A0-D605EE7E7F61}|10n_somaeles\\10n_somaeles.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\10n_somaeles\\10n_somaeles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E69AF1C7-E0EE-4387-88A0-D605EE7E7F61}|10n_somaeles\\10n_somaeles.csproj|solutionrelative:10n_somaeles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\10n_somaeles\\10n_somaeles\\Program.cs",
+              "RelativeDocumentMoniker": "10n_somaeles\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\10n_somaeles\\10n_somaeles\\Program.cs",
+              "RelativeToolTip": "10n_somaeles\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T16:42:23.18Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

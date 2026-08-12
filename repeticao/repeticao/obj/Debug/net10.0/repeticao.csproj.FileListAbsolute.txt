@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\bin\Debug\net10.0\repeticao.exe
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\bin\Debug\net10.0\repeticao.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\bin\Debug\net10.0\repeticao.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\bin\Debug\net10.0\repeticao.dll
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\bin\Debug\net10.0\repeticao.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\repeticao.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\repeticao.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\repeticao.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\repeticao.dll
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\refint\repeticao.dll
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\repeticao.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\repeticao.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\repeticao\repeticao\obj\Debug\net10.0\ref\repeticao.dll

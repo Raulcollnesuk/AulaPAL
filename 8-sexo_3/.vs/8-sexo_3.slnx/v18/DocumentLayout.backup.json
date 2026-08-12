@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\8-sexo_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3811164B-3D11-4F50-949A-69D6977DEC7E}|8-sexo_3\\8-sexo_3.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\8-sexo_3\\8-sexo_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3811164B-3D11-4F50-949A-69D6977DEC7E}|8-sexo_3\\8-sexo_3.csproj|solutionrelative:8-sexo_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\8-sexo_3\\8-sexo_3\\Program.cs",
+              "RelativeDocumentMoniker": "8-sexo_3\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\8-sexo_3\\8-sexo_3\\Program.cs",
+              "RelativeToolTip": "8-sexo_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T20:06:49.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

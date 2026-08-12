@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\bin\Debug\net10.0\7-maior18.exe
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\bin\Debug\net10.0\7-maior18.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\bin\Debug\net10.0\7-maior18.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\bin\Debug\net10.0\7-maior18.dll
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\bin\Debug\net10.0\7-maior18.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\7-maior18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\7-maior18.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\7-maior18.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\7-maior18.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\7-maior18.dll
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\refint\7-maior18.dll
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\7-maior18.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\7-maior18.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\7-maior18\7-maior18\obj\Debug\net10.0\ref\7-maior18.dll
