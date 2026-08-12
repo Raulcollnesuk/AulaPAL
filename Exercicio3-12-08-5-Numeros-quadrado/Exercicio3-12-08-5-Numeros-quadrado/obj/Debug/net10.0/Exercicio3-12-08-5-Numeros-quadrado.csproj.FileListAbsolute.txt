@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\bin\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.exe
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\bin\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\bin\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\bin\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\bin\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.sourcelink.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\refint\Exercicio3-12-08-5-Numeros-quadrado.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\Exercicio3-12-08-5-Numeros-quadrado.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio3-12-08-5-Numeros-quadrado\Exercicio3-12-08-5-Numeros-quadrado\obj\Debug\net10.0\ref\Exercicio3-12-08-5-Numeros-quadrado.dll

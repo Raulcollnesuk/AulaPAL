@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\1a10decrescente\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA2B4CEB-39BA-4BFB-938E-536B1F2A81EF}|1a10decrescente\\1a10decrescente.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\1a10decrescente\\1a10decrescente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA2B4CEB-39BA-4BFB-938E-536B1F2A81EF}|1a10decrescente\\1a10decrescente.csproj|solutionrelative:1a10decrescente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A737A415-FC83-88EC-F3E0-12E6F6421E8C}|1a10decrescente\\1a10decrescente.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\1a10decrescente\\1a10decrescente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A737A415-FC83-88EC-F3E0-12E6F6421E8C}|1a10decrescente\\1a10decrescente.csproj|solutionrelative:1a10decrescente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,8 +26,7 @@
               "RelativeToolTip": "1a10decrescente\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-05T16:19:16.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-05T16:19:16.397Z"
             }
           ]
         }
