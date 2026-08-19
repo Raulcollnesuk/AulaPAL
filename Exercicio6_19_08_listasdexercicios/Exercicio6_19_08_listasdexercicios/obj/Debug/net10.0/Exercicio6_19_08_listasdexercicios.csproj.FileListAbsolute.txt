@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\bin\Debug\net10.0\Exercicio6_19_08_listasdexercicios.exe
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\bin\Debug\net10.0\Exercicio6_19_08_listasdexercicios.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\bin\Debug\net10.0\Exercicio6_19_08_listasdexercicios.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\bin\Debug\net10.0\Exercicio6_19_08_listasdexercicios.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\bin\Debug\net10.0\Exercicio6_19_08_listasdexercicios.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\Exercicio6_19_08_listasdexercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\Exercicio6_19_08_listasdexercicios.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\Exercicio6_19_08_listasdexercicios.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\Exercicio6_19_08_listasdexercicios.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\Exercicio6_19_08_listasdexercicios.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\refint\Exercicio6_19_08_listasdexercicios.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\Exercicio6_19_08_listasdexercicios.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\Exercicio6_19_08_listasdexercicios.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio6_19_08_listasdexercicios\Exercicio6_19_08_listasdexercicios\obj\Debug\net10.0\ref\Exercicio6_19_08_listasdexercicios.dll

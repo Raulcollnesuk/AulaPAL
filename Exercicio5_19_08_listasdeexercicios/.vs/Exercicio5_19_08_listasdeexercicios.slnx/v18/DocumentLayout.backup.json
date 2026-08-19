@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio5_19_08_listasdeexercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8395AD62-E645-4CA4-9646-EC9A4C85FF44}|Exercicio5_19_08_listasdeexercicios\\Exercicio5_19_08_listasdeexercicios.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\exercicio5_19_08_listasdeexercicios\\exercicio5_19_08_listasdeexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8395AD62-E645-4CA4-9646-EC9A4C85FF44}|Exercicio5_19_08_listasdeexercicios\\Exercicio5_19_08_listasdeexercicios.csproj|solutionrelative:exercicio5_19_08_listasdeexercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio5_19_08_listasdeexercicios\\Exercicio5_19_08_listasdeexercicios\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio5_19_08_listasdeexercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio5_19_08_listasdeexercicios\\Exercicio5_19_08_listasdeexercicios\\Program.cs",
+              "RelativeToolTip": "Exercicio5_19_08_listasdeexercicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T16:47:16.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

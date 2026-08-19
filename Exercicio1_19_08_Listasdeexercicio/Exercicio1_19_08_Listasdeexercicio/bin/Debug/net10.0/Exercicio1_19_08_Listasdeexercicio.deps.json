@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Exercicio1_19_08_Listasdeexercicio/1.0.0": {
+        "runtime": {
+          "Exercicio1_19_08_Listasdeexercicio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exercicio1_19_08_Listasdeexercicio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
