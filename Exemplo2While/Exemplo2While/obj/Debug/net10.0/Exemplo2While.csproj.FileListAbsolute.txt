@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\bin\Debug\net10.0\Exemplo2While.exe
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\bin\Debug\net10.0\Exemplo2While.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\bin\Debug\net10.0\Exemplo2While.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\bin\Debug\net10.0\Exemplo2While.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\bin\Debug\net10.0\Exemplo2While.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\Exemplo2While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\Exemplo2While.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\Exemplo2While.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\Exemplo2While.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\Exemplo2While.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\refint\Exemplo2While.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\Exemplo2While.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\Exemplo2While.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exemplo2While\Exemplo2While\obj\Debug\net10.0\ref\Exemplo2While.dll
