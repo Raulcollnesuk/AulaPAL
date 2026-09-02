@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios.csproj",
+      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios.csproj",
       "projectName": "Exercicio4_19_08_Listasdeexercicios",
-      "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios.csproj",
+      "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios.csproj",
       "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios\\obj\\",
+      "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_19_08_Listasdeexercicios\\Exercicio4_19_08_Listasdeexercicios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

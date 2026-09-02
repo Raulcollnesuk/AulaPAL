@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\entre1eN\\entre1eN.csproj": {}
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\entre1eN\\entre1eN.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\entre1eN\\entre1eN.csproj": {
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\entre1eN\\entre1eN.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\entre1eN\\entre1eN.csproj",
+        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\entre1eN\\entre1eN.csproj",
         "projectName": "entre1eN",
-        "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\entre1eN\\entre1eN.csproj",
+        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\entre1eN\\entre1eN.csproj",
         "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\entre1eN\\obj\\",
+        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\entre1eN\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

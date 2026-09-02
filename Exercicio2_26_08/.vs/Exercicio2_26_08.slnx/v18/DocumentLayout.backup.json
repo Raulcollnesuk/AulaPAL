@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio2_26_08\\",
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio2_26_08\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53D1C70D-B465-452F-BA44-74A7D5CE9DDA}|Exercicio2_26_08\\Exercicio2_26_08.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\exercicio2_26_08\\exercicio2_26_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53D1C70D-B465-452F-BA44-74A7D5CE9DDA}|Exercicio2_26_08\\Exercicio2_26_08.csproj|solutionrelative:exercicio2_26_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AFA77A5E-3B95-3E23-DCB0-013FE8E60C6D}|Exercicio2_26_08\\Exercicio2_26_08.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\exercicio2_26_08\\exercicio2_26_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFA77A5E-3B95-3E23-DCB0-013FE8E60C6D}|Exercicio2_26_08\\Exercicio2_26_08.csproj|solutionrelative:exercicio2_26_08\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,10 +20,10 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio2_26_08\\Exercicio2_26_08\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio2_26_08\\Exercicio2_26_08\\Program.cs",
               "RelativeDocumentMoniker": "Exercicio2_26_08\\Program.cs",
-              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio2_26_08\\Exercicio2_26_08\\Program.cs*",
-              "RelativeToolTip": "Exercicio2_26_08\\Program.cs*",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio2_26_08\\Exercicio2_26_08\\Program.cs",
+              "RelativeToolTip": "Exercicio2_26_08\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-26T16:16:59.867Z",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj": {}
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj": {
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj",
+        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj",
         "projectName": "Exercicio4_26_08",
-        "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj",
+        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\Exercicio4_26_08.csproj",
         "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\obj\\",
+        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio4_26_08\\Exercicio4_26_08\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj": {}
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj": {
+    "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj",
+        "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj",
         "projectName": "Exercicio3-12-08-5-Numeros-quadrado",
-        "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj",
+        "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado.csproj",
         "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\obj\\",
+        "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\Exercicio3-12-08-5-Numeros-quadrado\\Exercicio3-12-08-5-Numeros-quadrado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

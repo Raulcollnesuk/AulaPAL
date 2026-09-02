@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio3-12-08-5-Numeros-quadrado")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b586a9db939196a6d55cc137a8bab61e66b14b8f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc4580fa960a09794758328c34c626e91da61cf6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio3-12-08-5-Numeros-quadrado")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio3-12-08-5-Numeros-quadrado")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

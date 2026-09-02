@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\",
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EFBE6F38-5C60-4126-BBAA-521367401FA9}|entre1eN\\entre1eN.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\entre1en\\entre1en\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EFBE6F38-5C60-4126-BBAA-521367401FA9}|entre1eN\\entre1eN.csproj|solutionrelative:entre1en\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29715CD8-BA6B-6872-A821-916D12B58949}|entre1eN\\entre1eN.csproj|c:\\users\\fatec-ams-ds1\\desktop\\pal\\entre1en\\entre1en\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29715CD8-BA6B-6872-A821-916D12B58949}|entre1eN\\entre1eN.csproj|solutionrelative:entre1en\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\entre1eN\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\entre1eN\\Program.cs",
               "RelativeDocumentMoniker": "entre1eN\\Program.cs",
-              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\entre1eN\\entre1eN\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\pal\\entre1eN\\entre1eN\\Program.cs",
               "RelativeToolTip": "entre1eN\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
