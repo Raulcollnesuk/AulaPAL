@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\bin\Debug\net10.0\Exercicio4_25.1_09_09.exe
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\bin\Debug\net10.0\Exercicio4_25.1_09_09.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\bin\Debug\net10.0\Exercicio4_25.1_09_09.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\bin\Debug\net10.0\Exercicio4_25.1_09_09.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\bin\Debug\net10.0\Exercicio4_25.1_09_09.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\Exercicio4_25.1_09_09.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\Exercicio4_25.1_09_09.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\Exercicio4_25.1_09_09.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\Exercicio4_25.1_09_09.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\Exercicio4_25.1_09_09.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\refint\Exercicio4_25.1_09_09.dll
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\Exercicio4_25.1_09_09.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\Exercicio4_25.1_09_09.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\Exercicio4_25.1_09_09\Exercicio4_25.1_09_09\obj\Debug\net10.0\ref\Exercicio4_25.1_09_09.dll
