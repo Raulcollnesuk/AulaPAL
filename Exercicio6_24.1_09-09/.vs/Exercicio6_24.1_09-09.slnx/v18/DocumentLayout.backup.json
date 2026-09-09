@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio6_24.1_09-09\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9FB2FF2-612E-4B4D-9EE2-26FF22B27715}|Exercicio6_24.1_09-09\\Exercicio6_24.1_09-09.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\exercicio6_24.1_09-09\\exercicio6_24.1_09-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E9FB2FF2-612E-4B4D-9EE2-26FF22B27715}|Exercicio6_24.1_09-09\\Exercicio6_24.1_09-09.csproj|solutionrelative:exercicio6_24.1_09-09\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio6_24.1_09-09\\Exercicio6_24.1_09-09\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio6_24.1_09-09\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\Exercicio6_24.1_09-09\\Exercicio6_24.1_09-09\\Program.cs",
+              "RelativeToolTip": "Exercicio6_24.1_09-09\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T16:25:43.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
