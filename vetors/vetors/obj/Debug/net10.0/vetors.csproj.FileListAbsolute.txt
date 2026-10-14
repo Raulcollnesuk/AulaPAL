@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\vetors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\vetors.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\vetors.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\vetors.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\bin\Debug\net10.0\vetors.exe
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\bin\Debug\net10.0\vetors.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\bin\Debug\net10.0\vetors.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\bin\Debug\net10.0\vetors.dll
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\bin\Debug\net10.0\vetors.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\vetors.dll
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\refint\vetors.dll
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\vetors.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\vetors.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\vetors\vetors\obj\Debug\net10.0\ref\vetors.dll
